@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 0e94702cba7e48d4faf9e7efdec3b0c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3519107539707778945
+    second: Tilesetfinal-export_2
+  - first:
+      213: -1606605131044163835
+    second: Tilesetfinal-export_3
+  - first:
+      213: -3578623586010243322
+    second: Tilesetfinal-export_0
+  - first:
+      213: 4413282656915314264
+    second: Tilesetfinal-export_1
+  - first:
+      213: 628309481367622485
+    second: Tilesetfinal-export_4
+  - first:
+      213: 1304160527019602132
+    second: Tilesetfinal-export_5
+  - first:
+      213: -8812210670604410961
+    second: Tilesetfinal-export_6
+  - first:
+      213: 1863235892396653736
+    second: Tilesetfinal-export_7
+  - first:
+      213: 3312498435764437122
+    second: Tilesetfinal-export_8
+  - first:
+      213: 6631772586889785905
+    second: Tilesetfinal-export_9
+  - first:
+      213: 538665854208232683
+    second: Tilesetfinal-export_10
+  - first:
+      213: 1342647302087217701
+    second: Tilesetfinal-export_11
+  - first:
+      213: 5598498860712431843
+    second: Tilesetfinal-export_12
+  - first:
+      213: 5108392774201827498
+    second: Tilesetfinal-export_13
+  - first:
+      213: -681703859839977582
+    second: Tilesetfinal-export_14
+  - first:
+      213: -3335407722498857836
+    second: Tilesetfinal-export_15
+  - first:
+      213: 7058087409510685367
+    second: Tilesetfinal-export_16
+  - first:
+      213: 3688897614302326436
+    second: Tilesetfinal-export_17
+  - first:
+      213: 4638009856813763583
+    second: Tilesetfinal-export_18
+  - first:
+      213: 1981969638261692608
+    second: Tilesetfinal-export_19
+  - first:
+      213: 7959005433977511424
+    second: Tilesetfinal-export_20
+  - first:
+      213: -4527107604214873354
+    second: Tilesetfinal-export_21
+  - first:
+      213: 8145720987256195099
+    second: Tilesetfinal-export_22
+  - first:
+      213: -3401537497025339103
+    second: Tilesetfinal-export_23
+  - first:
+      213: -8763748792813706011
+    second: Tilesetfinal-export_24
+  - first:
+      213: -6027292842349510634
+    second: Tilesetfinal-export_25
+  - first:
+      213: 3113823885800993431
+    second: Tilesetfinal-export_26
+  - first:
+      213: -7731738361713738082
+    second: Tilesetfinal-export_27
+  - first:
+      213: 6998955800593915843
+    second: Tilesetfinal-export_28
+  - first:
+      213: 8231742301656406278
+    second: Tilesetfinal-export_29
+  - first:
+      213: 2111391911583303180
+    second: Tilesetfinal-export_30
+  - first:
+      213: -4154749411567649950
+    second: Tilesetfinal-export_31
+  - first:
+      213: -5426442943783678274
+    second: Tilesetfinal-export_32
+  - first:
+      213: -5493374112087842194
+    second: Tilesetfinal-export_33
+  - first:
+      213: -2348217654874139189
+    second: Tilesetfinal-export_34
+  - first:
+      213: 5276717263823618171
+    second: Tilesetfinal-export_35
+  - first:
+      213: -1584896450743265416
+    second: Tilesetfinal-export_36
+  - first:
+      213: 8211550545467035981
+    second: Tilesetfinal-export_37
+  - first:
+      213: -561900976867616047
+    second: Tilesetfinal-export_38
+  - first:
+      213: -4851438255704349734
+    second: Tilesetfinal-export_39
+  - first:
+      213: -6107953735781837433
+    second: Tilesetfinal-export_40
+  - first:
+      213: 1641539318272313604
+    second: Tilesetfinal-export_41
+  - first:
+      213: 1340269243282477207
+    second: Tilesetfinal-export_42
+  - first:
+      213: 1455376373408002166
+    second: Tilesetfinal-export_43
+  - first:
+      213: 715143162862949652
+    second: Tilesetfinal-export_44
+  - first:
+      213: 6535980666242721816
+    second: Tilesetfinal-export_45
+  - first:
+      213: -7872783315913361911
+    second: Tilesetfinal-export_46
+  - first:
+      213: 1060557208232353784
+    second: Tilesetfinal-export_47
+  - first:
+      213: -6555087317468562252
+    second: Tilesetfinal-export_48
+  - first:
+      213: 3428013431608678132
+    second: Tilesetfinal-export_49
+  - first:
+      213: -8853296064449787447
+    second: Tilesetfinal-export_50
+  - first:
+      213: 1429797492438231317
+    second: Tilesetfinal-export_51
+  - first:
+      213: 7636984424794515757
+    second: Tilesetfinal-export_52
+  - first:
+      213: -5446965770023142083
+    second: Tilesetfinal-export_53
+  - first:
+      213: 3977244329819042443
+    second: Tilesetfinal-export_54
+  - first:
+      213: 4953119044849970900
+    second: Tilesetfinal-export_55
+  - first:
+      213: -707254327159278636
+    second: Tilesetfinal-export_56
+  - first:
+      213: -1099865620962189864
+    second: Tilesetfinal-export_57
+  - first:
+      213: -2170087115930380071
+    second: Tilesetfinal-export_58
+  - first:
+      213: -6986688912372032614
+    second: Tilesetfinal-export_59
+  - first:
+      213: 3968141291003875961
+    second: Tilesetfinal-export_60
+  - first:
+      213: 8788022552833037990
+    second: Tilesetfinal-export_61
+  - first:
+      213: -1263915893632937310
+    second: Tilesetfinal-export_62
+  - first:
+      213: -3384294431839843818
+    second: Tilesetfinal-export_63
+  - first:
+      213: -3883839313760278288
+    second: Tilesetfinal-export V2_2
+  - first:
+      213: 5499338040318260381
+    second: Tilesetfinal-export V2_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilesetfinal-export V2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8023f5db6d2a9a8b0800000000000000
+      internalID: -5140398456482876920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesetfinal-export V2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110b57f08873bf30800000000000000
+      internalID: 4590144940521750800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesetfinal-export V2_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 33
+        width: 33
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f82f9ab8b4d91ac0800000000000000
+      internalID: -3883839313760278288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesetfinal-export V2_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9476f89fc2915c40800000000000000
+      internalID: 5499338040318260381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
