@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 //Librería de unity para el control de escenas
 public class MainMenu : MonoBehaviour
 {
-    //Método para cargar la escena del videojuego, en este caso se dirige al Demo del Nivel 1
+    //Función para cargar la escena del videojuego, en este caso se dirige al Demo del Nivel 1
     public void Jugar()
     {
         SceneManager.LoadScene("DemoLevel_1");
@@ -13,7 +13,7 @@ public class MainMenu : MonoBehaviour
 
 
 
-    //Método para cargar la escena de opciones principales del menú para el videojuego.
+    //Función para cargar la escena de opciones principales del menú para el videojuego.
     public void Opciones()
     {
         SceneManager.LoadScene("MainOptions");
@@ -21,7 +21,7 @@ public class MainMenu : MonoBehaviour
 
 
 
-    //Método para especificar que escena cargar al darle click. (Usar este método en un futuro).
+    //Función para especificar que escena cargar al darle click. (Usar este método en un futuro).
     public void CargarNivel(string nombreNivel)
     {
         SceneManager.LoadScene("");
@@ -29,7 +29,7 @@ public class MainMenu : MonoBehaviour
 
 
 
-    //Método para salir directamente del juego.
+    //Función para salir directamente del juego.
     public void Salir()
     {
         Application.Quit();

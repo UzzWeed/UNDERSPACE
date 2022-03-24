@@ -13,4 +13,14 @@ public class ChakepointFinal : MonoBehaviour
             SceneManager.LoadScene("EndDemo");
         }
     }
+
+    public void AbrirLink()
+    {
+        Application.OpenURL("https://github.com/UzzWeed/UNDERSPACE");
+    }
+    
+    public void Salir()
+    {
+        Application.Quit();
+    }
 }
